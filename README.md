@@ -5,9 +5,10 @@ Boas vindas ao meu perfil 💙💙
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-![https://images.app.goo.gl/9ZwkcPxQE4amfBdZ8] link
+![](https://images.app.goo.gl/9ZwkcPxQE4amfBdZ8)
 
-Você pode entrar em contato comigo 📫
+Você pode entrar em contato comigo 
+
 
 alurastartestudante@email.com
 
