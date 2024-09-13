@@ -3,7 +3,7 @@
 
 Meu nome é AlvinS2
 - Estou estudando na Alura
-- Estou me desenvolvendo na linguagem JavaScript
+- Estou me desenvolvendo na linguagem JavaScript e html
 - Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
 
